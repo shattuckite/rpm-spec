@@ -1,4 +1,4 @@
-# disable as it need locales, and the golang-github-burntsushi-toml-test
+# disable for now as it need locales, and the golang-github-burntsushi-toml-test
 # package is too outdated to use.
 # https://github.com/marzer/tomlplusplus/blob/master/CONTRIBUTING.md
 # https://github.com/marzer/tomlplusplus/blob/master/toml-test/README.md
