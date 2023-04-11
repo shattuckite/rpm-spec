@@ -35,8 +35,8 @@ Summary:        Development files for %{name}
 Requires:       %{name}%{?_isa} = %{version}-%{release}
 
 %description    devel
-The %{name}-devel package contains libraries and header files for developing
-applications that use %{name}.
+The %{name}-devel package contains libraries and header files for 
+developing applications that use %{name}.
 
 %prep
 %autosetup -p1
